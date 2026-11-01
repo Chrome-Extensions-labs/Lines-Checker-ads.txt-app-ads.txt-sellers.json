@@ -3,6 +3,7 @@
   "name": "Lines Checker: ads.txt/app-ads.txt/sellers.json",
   "version": "7.6.2",
   "description": "Check ads.txt and app-ads.txt, find errors and duplicates, and verify seller IDs against sellers.json directly in Chrome",
+  "homepage_url": "https://github.com/Chrome-Extensions-labs/Lines-Checker-ads.txt-app-ads.txt-sellers.json",
   "icons": {
     "128": "assets/icons/icon128.png"
   },
